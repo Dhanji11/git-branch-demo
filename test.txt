@@ -1,3 +1,7 @@
 function bike
 function car
+<<<<<<< HEAD
+function cycle + bugfix2
+=======
 trying to solve bug 2
+>>>>>>> main
