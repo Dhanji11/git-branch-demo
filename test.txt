@@ -1,2 +1,3 @@
 function bike
 function car
+trying to solve bug 2
