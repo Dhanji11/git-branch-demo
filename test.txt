@@ -1,4 +1,7 @@
-hey this is my first commit page
 function bike
 function car
-function cycle
+<<<<<<< HEAD
+function cycle + bugfix2
+=======
+trying to solve bug 2
+>>>>>>> main
