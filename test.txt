@@ -1,2 +1,3 @@
 hey this is my first commit page
 function bike
+function car
